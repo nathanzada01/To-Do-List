@@ -9,3 +9,6 @@ Marcar como Concluido : As tarefas que foram concluídas, você pode dar um "Che
 Tarefas de remoção : Como você adicionou, você também pode remover, basta clicar em "Lixeira" , que irá removê-lo automaticamente!
 
 Armazenamento Local : Como armazenamento, utilizei o LocalStorage, todas as suas tarefas estarão salvas dentro do próprio, você pode recarregar a página "F5", fechar a aba, e ter as suas INFORMAÇÕES orientadas salvas!
+
+
+LINK DO PROJETO: www.nathanporto.shop
